@@ -69,7 +69,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone [<repository-url>](https://github.com/Dustless-web/agrivision-demo.git)
+git clone https://github.com/Dustless-web/agrivision-demo.git
 cd agrivision-demo
 ```
 
